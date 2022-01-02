@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:21:12:50 +0200] "GET /SimpleMavenWebApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:21:12:51 +0200] "GET /SimpleMavenWebApp/ HTTP/1.1" 200 52 http-bio-8080-exec-3 716
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:21:12:52 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:21:13:26 +0200] "GET /SimpleMavenWebApp/ HTTP/1.1" 200 54 http-bio-8080-exec-5 80
