@@ -1,2 +1,9 @@
 D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\beans\UserAccount.java
+D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\utils\DBUtils.java
+D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\filter\CookieFilter.java
+D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\utils\MyUtils.java
 D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\beans\Product.java
+D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\conn\MySQLConnUtils.java
+D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\filter\JDBCFilter.java
+D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\conn\ConnectionUtils.java
+D:\Roman\Java\Eclipse-workspace\SimpleMavenWebApp\src\main\java\filter\EncodingFilter.java

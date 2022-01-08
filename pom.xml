@@ -98,7 +98,12 @@
                 <path>/</path>
                 <port>8899</port>
             </configuration>
-            -->  
+               
+		    <configuration>
+		        <url>http://localhost:8088/SimpleMavenWebApp</url>
+		        <server>tomcat8_vy</server>
+		    </configuration>
+		    -->           
         </plugin>        
       </plugins>
     </pluginManagement>
